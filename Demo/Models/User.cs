@@ -7,5 +7,7 @@ namespace Demo.Models
 {
     public class User
     {
+        public int ID { get; set; }
+        public String Name { get; set; }
     }
 }
